@@ -5,6 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,        
   },
+   basePath: "/siddharthgoyal00.github.io",  
   
 };
 
